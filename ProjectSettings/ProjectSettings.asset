@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 27
-  productGUID: 981c646300617f747976b9463c014b8f
+  productGUID: 54223af74bc32c84f8bd7816486036d1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: MarchingCubeAnimations
+  productName: VideoFX-Noise
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -159,7 +159,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Standalone: com.DefaultCompany.MarchingCubeAnimations
+    Standalone: com.DefaultCompany.VideoFX-Noise
   buildNumber:
     Bratwurst: 0
     Standalone: 0
@@ -686,16 +686,16 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: MarchingCubeAnimations
+  metroPackageName: VideoFX-Noise
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: MarchingCubeAnimations
+  metroApplicationDescription: VideoFX-Noise
   wsaImages: {}
-  metroTileShortName: MarchingCubeAnimations
+  metroTileShortName: VideoFX-Noise
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -764,10 +764,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 85fadcfb-8ec1-4fa8-914f-b128f0266968
+  cloudProjectId: a9a875bd-0149-40d1-a608-f2b5348a90eb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MarchingCubeAnimations
+  projectName: VideoFX-Noise
   organizationId: blue-pixel-studios
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
