@@ -61,10 +61,21 @@ This project uses scenes to split up the visualizations:
       <td align="center"><img src="example2.gif" alt="Minecraft Chunk Example" width="250"/></td>
       <td align="center"><img src="example3.gif" alt="Generic Animation Example" width="250"/></td>
     </tr>
-    <tr>
-      <td align="center"><b>Perlin Plane</b></td>
-      <td align="center"><b>Minecraft Chunk</b></td>
-      <td align="center"><b>Generic Animation</b></td>
-    </tr>
   </table>
 </div>
+
+## 👥 Contributors
+<a href="https://github.com/TheDevAtlas/Noise-Doc-Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheDevAtlas/Noise-Doc-Project" />
+</a>
+
+## 📚 References and Reading
+
+If you're interested in learning more about Perlin noise and procedural generation techniques used in this project, here are some valuable resources:
+
+- **[Improving Noise](https://mrl.cs.nyu.edu/~perlin/paper445.pdf)** - Ken Perlin's paper on improving noise
+- **[The Book of Shaders](https://thebookofshaders.com/11/)** - Excellent guide on noise functions in shaders
+- **[Understanding Perlin Noise](https://adrianb.io/2014/08/09/perlinnoise.html)** - A detailed explanation of how Perlin noise works
+- **[Procedural Content Generation in Games](https://www.pcgbook.com/)** - Comprehensive book on procedural generation techniques
+- **[Unity URP Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.0/manual/index.html)** - Official documentation for Universal Render Pipeline
+- **[The Nature of Code](https://natureofcode.com/book/chapter-4-particle-systems/)** - Daniel Shiffman's book with excellent chapters on noise and particle systems
