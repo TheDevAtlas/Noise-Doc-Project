@@ -51,3 +51,20 @@ This project uses scenes to split up the visualizations:
 3. **Generic Animations**:
    - Two separate animations for "voice over" sections.
    - These have visuals of dice rolls, floating numbers, and computer consoles.
+
+## 💾 Examples
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="example1.gif" alt="Perlin Plane Example" width="250"/></td>
+      <td align="center"><img src="example2.gif" alt="Minecraft Chunk Example" width="250"/></td>
+      <td align="center"><img src="example3.gif" alt="Generic Animation Example" width="250"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Perlin Plane</b></td>
+      <td align="center"><b>Minecraft Chunk</b></td>
+      <td align="center"><b>Generic Animation</b></td>
+    </tr>
+  </table>
+</div>
