@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a href="https://gofiber.io">
+  <a>
     <picture>
-      <source height="125" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg">
-      <img height="125" alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg">
+      <source height="125" media="(prefers-color-scheme: dark)" srcset="readmetitle.png">
+      <img height="125" alt="Fiber" src="readmetitle.png">
     </picture>
   </a>
 </h1>
