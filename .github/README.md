@@ -64,11 +64,6 @@ This project uses scenes to split up the visualizations:
   </table>
 </div>
 
-## 👥 Contributors
-<a href="https://github.com/TheDevAtlas/Noise-Doc-Project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TheDevAtlas/Noise-Doc-Project" />
-</a>
-
 ## 📚 References and Reading
 
 If you're interested in learning more about Perlin noise and procedural generation techniques used in this project, here are some valuable resources:
