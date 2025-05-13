@@ -7,15 +7,15 @@
   </a>
 </h1>
 
-## 🌊 Abstract 🌊
+## 🌊 Abstract
 
 This project creates visuals using the animation and rendering capabilities of Unity. Utilizing the Universal Render Pipeline (URP), the project produces high-quality animations that show the versatility of noise functions in creating organic, natural-looking movement and patterns.
 
 Perlin noise, developed by Ken Perlin in 1983, is a gradient noise function that produces a more natural, harmonic appearance compared to simple random functions. This project leverages this characteristic to generate visually appealing animations that can be used for various purposes, including game development, visual effects, and artistic installations.
 
-While these visualizations were left unused in an old product, it is a good example of what Unity can be used for in non-interactive environments.
+While these visualizations were left unused in an old product, they are a good example of what can be done with non-interactive environments.
 
-## ⚙️ Installation & Setup ⚙️
+## ⚙️ Installation & Setup
 
 This project requires **Unity 6000 LTS or higher** with the Universal Render Pipeline package installed. Follow these steps to set up the project:
 
@@ -33,23 +33,21 @@ This project requires **Unity 6000 LTS or higher** with the Universal Render Pip
    - Universal Render Pipeline package
    - Unity Recorder package
 
-## 🎬 Project Explanation 🎬
+## 🎬 Project Explanation
 
 ### Core Components
 
 This project uses scenes to split up the visualizations:
 
-1. **Noise Generators**: 
-   - Custom C# scripts that implement various noise algorithms
-   - Configurable parameters to control frequency, amplitude, and octaves
-   - Support for both 2D and 3D noise implementations
+1. **Perlin Plane**: 
+   - Generates an NxN grid that is displaced in a wave pattern.
+   - Uses Perlin noise to displace the plane.
 
-2. **Visual Renderers**:
-   - Shader Graph implementations for rendering noise as visual effects
-   - Material systems that respond to noise parameters
-   - Mesh manipulators that use noise for geometric deformation
+2. **Minecraft Chunk**:
+   - Minecraft chunk generation animation
+   - Uses Perlin noise to simulate placement of types of blocks.
+   - Animation uses timers and cubic Béziers to interpolate animations.
 
-3. **Animation Controllers**:
-   - Systems to animate noise parameters over time
-   - Keyframe-based animation curves for precise control
-   - Event-based triggers for synchronized visual effects
+3. **Generic Animations**:
+   - Two separate animations for "voice over" sections.
+   - These have visuals of dice rolls, floating numbers, and computer consoles.
