@@ -7,6 +7,16 @@
   </a>
 </h1>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="ChunkMovie.gif" alt="Perlin Plane Example" width="250"/></td>
+      <td align="center"><img src="PlaneMovie.gif" alt="Minecraft Chunk Example" width="250"/></td>
+      <td align="center"><img src="GambleMovie.gif" alt="Generic Animation Example" width="250"/></td>
+    </tr>
+  </table>
+</div>
+
 ## 🌊 Abstract
 
 This project creates visuals using the animation and rendering capabilities of Unity. Utilizing the Universal Render Pipeline (URP), the project produces high-quality animations that show the versatility of noise functions in creating organic, natural-looking movement and patterns.
@@ -51,18 +61,6 @@ This project uses scenes to split up the visualizations:
 3. **Generic Animations**:
    - Two separate animations for "voice over" sections.
    - These have visuals of dice rolls, floating numbers, and computer consoles.
-
-## 💾 Showcase and Examples
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="ChunkMovie.gif" alt="Perlin Plane Example" width="250"/></td>
-      <td align="center"><img src="PlaneMovie.gif" alt="Minecraft Chunk Example" width="250"/></td>
-      <td align="center"><img src="GambleMovie.gif" alt="Generic Animation Example" width="250"/></td>
-    </tr>
-  </table>
-</div>
 
 ## 📚 References and Reading
 
