@@ -5,25 +5,6 @@
       <img height="125" alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg">
     </picture>
   </a>
-  <br>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/🎮%20Unity-2021.3+-000000.svg?style=flat-square&logo=unity&logoColor=white">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/🔧%20C%23-Scripts-239120?style=flat-square&logo=csharp&logoColor=white">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Perlin_noise">
-    <img src="https://img.shields.io/badge/🌊%20Perlin-Noise-4E7CAD?style=flat-square">
-  </a>
-  <a href="https://docs.unity3d.com/Manual/AnimationSection.html">
-    <img src="https://img.shields.io/badge/🎬%20URP-Animations-FF4500?style=flat-square">
-  </a>
-  <a href="https://github.com/yourusername/unity-perlin-noise-visuals">
-    <img src="https://img.shields.io/badge/📊%20Procedural-Visuals-7957D5?style=flat-square">
-  </a>
-  <a href="https://github.com/yourusername/unity-perlin-noise-visuals/issues">
-    <img src="https://img.shields.io/badge/💬%20Feedback-Welcome-brightgreen?style=flat-square">
-  </a>
 </h1>
 
 ## 🌊 Abstract
